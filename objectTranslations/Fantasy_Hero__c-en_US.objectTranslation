@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Fantasy Hero</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Fantasy Heroes</value>
+    </caseValues>
+    <fields>
+        <label><!-- Main Weapon --></label>
+        <name>Main_Weapon__c</name>
+    </fields>
+    <fields>
+        <label><!-- Origin --></label>
+        <name>Origin__c</name>
+        <picklistValues>
+            <masterLabel>Desert</masterLabel>
+            <translation><!-- Desert --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Forest</masterLabel>
+            <translation><!-- Forest --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Others</masterLabel>
+            <translation><!-- Others --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sea</masterLabel>
+            <translation><!-- Sea --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
