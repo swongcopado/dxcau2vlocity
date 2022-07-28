@@ -2,6 +2,7 @@
     "%vlocity_namespace%__DisableMetadataCache__c": false,
     "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
     "%vlocity_namespace%__Element__c": [
+        "Test_Account_English_Element_DataRaptorExtractAction2.json",
         "Test_Account_English_Element_DataRaptorExtractAction1.json",
         "Test_Account_English_Element_Step1.json",
         "Test_Account_English_Element_Text1.json"
