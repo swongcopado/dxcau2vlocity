@@ -18148,6 +18148,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>US38TestObj__c.US38TestField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>User.vlocity_ins__DocuSignEmail__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -39840,6 +39845,9 @@
         <layout>US35_Test_Object__c-US35 Test Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>US38TestObj__c-US38TestObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>User-User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -40462,6 +40470,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>US35_Test_Object__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>US38TestObj__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
