@@ -1,0 +1,22 @@
+[
+    {
+        "%vlocity_namespace%__DisplayType__c": "REFERENCE",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Turbo Extract",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 0,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "testc",
+        "%vlocity_namespace%__FilterGroup__c": 0,
+        "%vlocity_namespace%__FilterOperator__c": "LIKE",
+        "%vlocity_namespace%__FilterValue__c": "0000",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "AccountId",
+        "%vlocity_namespace%__InterfaceObjectLookupOrder__c": 1,
+        "%vlocity_namespace%__InterfaceObjectName__c": "Contact",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "DR_Rollbacktest2Customa1e0w000000PTG2AAOItem0",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "DR_Rollbacktest2",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]
