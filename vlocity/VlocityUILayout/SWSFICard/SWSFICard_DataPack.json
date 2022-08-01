@@ -1,0 +1,15 @@
+{
+    "%vlocity_namespace%__Author__c": "dxcau2",
+    "%vlocity_namespace%__Datasource__c": "",
+    "%vlocity_namespace%__Definition__c": "SWSFICard.json",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "SWSFICard/1/dxcau2/1659342300161",
+    "%vlocity_namespace%__ParentID__c": "",
+    "%vlocity_namespace%__RequiredPermission__c": "",
+    "%vlocity_namespace%__Type__c": "Flyout",
+    "%vlocity_namespace%__Version__c": 1,
+    "Name": "SWSFICard",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityUILayout__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__VlocityUILayout__c/SWSFICard"
+}

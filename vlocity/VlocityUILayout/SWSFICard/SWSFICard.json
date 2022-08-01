@@ -1,0 +1,21 @@
+{
+    "Cards": [
+    ],
+    "componentName": "cfSWSFICard",
+    "dataSource": {
+        "type": null
+    },
+    "enableLwc": true,
+    "lwc": {
+        "DeveloperName": "baseLayout",
+        "Id": "0Rb5i000000NXrZCAW",
+        "MasterLabel": "baseLayout",
+        "NamespacePrefix": "%vlocity_namespace%",
+        "name": "baseLayout"
+    },
+    "previewType": "runTime",
+    "repeatCards": false,
+    "workspace": [
+        "FirstBlankCard/dxcau2/1/1659342337014"
+    ]
+}
