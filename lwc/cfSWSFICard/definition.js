@@ -1,0 +1,3 @@
+let definition = 
+                {"Cards":[],"dataSource":{"type":null},"enableLwc":true,"repeatCards":false,"lwc":{"MasterLabel":"baseLayout","DeveloperName":"baseLayout","Id":"0Rb5i000000NXrZCAW","name":"baseLayout","NamespacePrefix":"vlocity_ins"},"previewType":"runTime","componentName":"cfSWSFICard","workspace":["FirstBlankCard/dxcau2/1/1659342337014"],"GlobalKey__c":"SWSFICard/1/dxcau2/1659342300161"}; 
+            export default definition
