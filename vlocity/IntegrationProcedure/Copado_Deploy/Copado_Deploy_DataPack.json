@@ -1,5 +1,5 @@
 {
-    "%vlocity_namespace%__AdditionalInformation__c": "for testing  This description is version 2.",
+    "%vlocity_namespace%__AdditionalInformation__c": "for testing  This version is to be back promoted into Dev2 through Test",
     "%vlocity_namespace%__CustomJavaScript__c": "{}",
     "%vlocity_namespace%__DisableMetadataCache__c": false,
     "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
