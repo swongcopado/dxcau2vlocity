@@ -9,7 +9,7 @@ import { FlexCardMixin } from "vlocity_ins/flexCardMixin";
           
           import styleDef from "./styleDefinition";
               
-          export default class cfTest_Standalone_Card_1_dxcau2 extends FlexCardMixin(LightningElement){
+          export default class cfTest_Standalone_Card extends FlexCardMixin(LightningElement){
               @api debug;
               @api recordId;
               @api objectApiName;
