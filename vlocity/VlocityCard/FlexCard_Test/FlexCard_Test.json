@@ -3,9 +3,15 @@
         "contextVariables": [
         ],
         "orderBy": {
+            "isReverse": "",
+            "name": ""
         },
-        "type": null,
+        "type": "IntegrationProcedures",
         "value": {
+            "dsDelay": "",
+            "ipMethod": "Copado_ChildComponent",
+            "resultVar": "",
+            "vlocityAsync": false
         }
     },
     "enableLwc": true,
