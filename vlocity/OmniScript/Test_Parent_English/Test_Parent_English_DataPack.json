@@ -11,7 +11,7 @@
         "Test_Parent_English_Element_Email1.json",
         "Test_Parent_English_Element_Company-Information.json",
         "Test_Parent_English_Element_TextBlock2.json",
-        "Test_Parent_English_Element_testChild.json",
+        "Test_Parent_English_Element_TestChild.json",
         "Test_Parent_English_Element_NavigateAction1.json"
     ],
     "%vlocity_namespace%__IsLwcEnabled__c": true,
