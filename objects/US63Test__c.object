@@ -143,7 +143,6 @@
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <description>Put in combined user story. Back promote to both dev orgs.</description>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
@@ -154,12 +153,22 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>dummyobj2</label>
+    <fields>
+        <fullName>US63TestField__c</fullName>
+        <externalId>false</externalId>
+        <label>US63TestField</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>US63Test</label>
     <nameField>
-        <label>dummyobj2 Name</label>
+        <label>US63Test Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>dummyobj2s</pluralLabel>
+    <pluralLabel>US63Tests</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
