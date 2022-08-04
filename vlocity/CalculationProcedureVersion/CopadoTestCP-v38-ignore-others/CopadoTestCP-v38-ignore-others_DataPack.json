@@ -1,0 +1,52 @@
+{
+    "%vlocity_namespace%__ApplicableObject__c": "",
+    "%vlocity_namespace%__CalculationProcedureId__c": {
+        "Name": "CopadoTestCP",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__CalculationProcedure__c/CopadoTestCP",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationProcedure__c"
+    },
+    "%vlocity_namespace%__CalculationProcedureId__r.Name": "CopadoTestCP",
+    "%vlocity_namespace%__CalculationProcedureStep__c": "CopadoTestCP-v38-ignore-others_Steps.json",
+    "%vlocity_namespace%__CalculationProcedureVariable__c": "CopadoTestCP-v38-ignore-others_Variables.json",
+    "%vlocity_namespace%__Constants__c": [
+        {
+            "alias": "hundred",
+            "dataType": "Number",
+            "isEditable": false,
+            "name": "hundred",
+            "precision": 1,
+            "userDefined": true,
+            "value": "100",
+            "valuePlaceHolder": "Enter a Value"
+        },
+        {
+            "alias": "two",
+            "dataType": "Number",
+            "isEditable": false,
+            "name": "two",
+            "precision": 1,
+            "userDefined": true,
+            "value": "2",
+            "valuePlaceHolder": "Enter a Value"
+        }
+    ],
+    "%vlocity_namespace%__CurrentStatus__c": "Active",
+    "%vlocity_namespace%__EnableLooping__c": false,
+    "%vlocity_namespace%__EndDateTime__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "CopadoTestCP v38 (ignore others)",
+    "%vlocity_namespace%__InputBundleId__c": "",
+    "%vlocity_namespace%__LastSimulationInput__c": "{\"Testvar1\":\"69\"}",
+    "%vlocity_namespace%__LoopingSpecification__c": "",
+    "%vlocity_namespace%__OutputBundleId__c": "",
+    "%vlocity_namespace%__PostProcessorClass__c": "",
+    "%vlocity_namespace%__PreProcessorClass__c": "",
+    "%vlocity_namespace%__Priority__c": 2,
+    "%vlocity_namespace%__StartDateTime__c": "2022-07-29T03:15:31.000Z",
+    "%vlocity_namespace%__Variables__c": "",
+    "%vlocity_namespace%__VersionNumber__c": 38,
+    "Name": "CopadoTestCP v38 (ignore others)",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationProcedureVersion__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__CalculationProcedureVersion__c/38/%vlocity_namespace%__CalculationProcedure__c/CopadoTestCP"
+}
