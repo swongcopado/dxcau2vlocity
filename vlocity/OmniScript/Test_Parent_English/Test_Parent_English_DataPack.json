@@ -1,0 +1,30 @@
+{
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "Test_Parent_English_Element_DataRaptorExtractAction1.json",
+        "Test_Parent_English_Element_IntegrationProcedureAction1.json",
+        "Test_Parent_English_Element_Contact-Details.json",
+        "Test_Parent_English_Element_TextBlock1.json",
+        "Test_Parent_English_Element_Name.json",
+        "Test_Parent_English_Element_Dob.json",
+        "Test_Parent_English_Element_Email1.json",
+        "Test_Parent_English_Element_Company-Information.json",
+        "Test_Parent_English_Element_TextBlock2.json",
+        "Test_Parent_English_Element_TestChild.json",
+        "Test_Parent_English_Element_NavigateAction1.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": true,
+    "%vlocity_namespace%__IsProcedure__c": false,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": false,
+    "%vlocity_namespace%__Language__c": "English",
+    "%vlocity_namespace%__OmniProcessType__c": "OmniScript",
+    "%vlocity_namespace%__PropertySet__c": "Test_Parent_English_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "Parent",
+    "%vlocity_namespace%__Type__c": "Test",
+    "Name": "TestParent",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Test/Parent/English"
+}
