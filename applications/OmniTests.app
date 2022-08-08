@@ -13,11 +13,15 @@
     <label>OmniTests</label>
     <navType>Console</navType>
     <tabs>OmniTests</tabs>
+    <tabs>standard-Contact</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>OmniTests_UtilityBar</utilityBar>
     <workspaceConfig>
         <mappings>
             <tab>OmniTests</tab>
+        </mappings>
+        <mappings>
+            <tab>standard-Contact</tab>
         </mappings>
     </workspaceConfig>
 </CustomApplication>
