@@ -18,14 +18,14 @@
         "completeMessage": "Are you sure you want to complete the script?",
         "conditionType": "Hide if False",
         "documentNames": [
-            "CACCAIAJAff283bc0232c4c49b426879e70857787"
+            "CACCAIAJAd250f4d195094a5d8eedf93fcb29fd91"
         ],
         "errorMessage": {
             "custom": [
             ],
             "default": null
         },
-        "instruction": "<p>This is a Document with an embedded image below:</p>\n<p></p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jOZAAY&amp;docName=CACCAIAJAff283bc0232c4c49b426879e70857787&amp;oid=00D0w0000002T7zEAE\" alt=\"XBox Series X\" width=\"485\" height=\"485\" /></p>",
+        "instruction": "<p>This is a Document with an embedded image below:</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jOyAAI&amp;docName=CACCAIAJAd250f4d195094a5d8eedf93fcb29fd91&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"1024\" height=\"575\" /></p>",
         "instructionKey": "",
         "knowledgeOptions": {
             "dataCategoryCriteria": "",
