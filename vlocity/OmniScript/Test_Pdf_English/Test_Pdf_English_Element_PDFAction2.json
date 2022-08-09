@@ -52,7 +52,7 @@
         ],
         "showPopup": true,
         "ssm": false,
-        "templateName": "Pdf_doc",
+        "templateName": "Pdf_Doc_for_Copado_Test",
         "timeFormat": "",
         "validationRequired": "Submit",
         "wpm": false
