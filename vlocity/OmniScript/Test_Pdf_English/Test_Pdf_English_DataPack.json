@@ -3,6 +3,8 @@
     "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
     "%vlocity_namespace%__Element__c": [
         "Test_Pdf_English_Element_Step1.json",
+        "Test_Pdf_English_Element_Name.json",
+        "Test_Pdf_English_Element_City.json",
         "Test_Pdf_English_Element_PDFAction2.json"
     ],
     "%vlocity_namespace%__IsLwcEnabled__c": true,
