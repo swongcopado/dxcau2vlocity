@@ -11,10 +11,10 @@
     "enableLwc": true,
     "isFlex": true,
     "lwc": {
-        "DeveloperName": "cfTest_Flexipage_Card_1_dxcau2",
-        "Id": "0Rb0w000000D2LFCA0",
+        "DeveloperName": "cfTest_Flexipage_Card_4_dxcau2",
+        "Id": "0Rb0w000000D2haCAC",
         "ManageableState": "unmanaged",
-        "MasterLabel": "cfTest_Flexipage_Card_1_dxcau2",
+        "MasterLabel": "cfTest_Flexipage_Card_4_dxcau2",
         "NamespacePrefix": "c"
     },
     "selectableMode": "Multi",
@@ -38,7 +38,7 @@
                                     "parentElementKey": "element_block_0_0",
                                     "property": {
                                         "card": "{card}",
-                                        "mergeField": "%3Cdiv%3EEdit%20me!%3C/div%3E%0A%3Cdiv%3EThis%20will%20be%20in%20a%20lightning%20page%20of%20some%20kind%3C/div%3E",
+                                        "mergeField": "%3Cdiv%3EEdit%20me!%3C/div%3E%0A%3Cdiv%3EThis%20will%20be%20in%20a%20lightning%20page%20of%20some%20kind%3C/div%3E%0A%3Cdiv%3ESecond%20version%20be%20manual%20export%20&amp;%20drop%20to%20check%20if%20issue%20can%20be%20replicated%3C/div%3E%0A%3Cdiv%3EThird%20version%20to%20be%20in%20separate%20US%20branch%20and%20deploy%20via%20copado%3C/div%3E%0A%3Cdiv%3EThere%20should%20also%20be%20an%20image%20below%3C/div%3E",
                                         "record": "{record}"
                                     },
                                     "size": {
