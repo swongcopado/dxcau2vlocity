@@ -160,6 +160,11 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Copado Test Objects</pluralLabel>
+    <recordTypes>
+        <fullName>Copado_Test</fullName>
+        <active>true</active>
+        <label>Copado Test</label>
+    </recordTypes>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
