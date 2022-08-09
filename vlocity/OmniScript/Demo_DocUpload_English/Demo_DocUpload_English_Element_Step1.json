@@ -17,12 +17,15 @@
         "completeLabel": "Complete",
         "completeMessage": "Are you sure you want to complete the script?",
         "conditionType": "Hide if False",
+        "documentNames": [
+            "CACCAIAJA8b878f67f0074503bcb38e058737f9b0"
+        ],
         "errorMessage": {
             "custom": [
             ],
             "default": null
         },
-        "instruction": "",
+        "instruction": "<p>Instructions with image</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jOjAAI&amp;docName=CACCAIAJA8b878f67f0074503bcb38e058737f9b0&amp;oid=00D0w0000002T7zEAE\" alt=\"\" />.</p>",
         "instructionKey": "",
         "knowledgeOptions": {
             "dataCategoryCriteria": "",
