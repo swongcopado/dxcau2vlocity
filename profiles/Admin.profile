@@ -46104,6 +46104,14 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
+        <tab>LWC_Copado_Promotion_Test</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>LWC_Promotion_Test</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>OmniTests</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
