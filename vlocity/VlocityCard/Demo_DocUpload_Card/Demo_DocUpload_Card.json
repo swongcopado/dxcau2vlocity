@@ -38,7 +38,7 @@
                                     "parentElementKey": "element_block_0_0",
                                     "property": {
                                         "card": "{card}",
-                                        "mergeField": "%3Cdiv%3EEdit%20me!%3C/div%3E%0A%3Cdiv%3EThere%20should%20be%20an%20image%20below%3C/div%3E",
+                                        "mergeField": "%3Cdiv%3EEdit%20me!%3C/div%3E%0A%3Cdiv%3EThere%20should%20be%20an%20image%20below%20(showing%20a%20dev1%20banner)%3C/div%3E",
                                         "record": "{record}"
                                     },
                                     "size": {
@@ -66,13 +66,13 @@
                                         "stateImg": {
                                             "alternativeText": "Image description",
                                             "document": {
-                                                "Id": "0680w000000Fl5cAAC",
+                                                "Id": "0680w000000FlEpAAK",
                                                 "attachmentType": "ContentVersion",
-                                                "label": "2022-08-09_17-21 (Version:1)",
-                                                "title": "2022-08-09_17-21",
-                                                "value": "/sfc/servlet.shepherd/version/download/0680w000000Fl5cAAC"
+                                                "label": "dev1-header (Version:1)",
+                                                "title": "dev1-header",
+                                                "value": "/sfc/servlet.shepherd/version/download/0680w000000FlEpAAK"
                                             },
-                                            "imgsrc": "/sfc/servlet.shepherd/version/download/0680w000000Fl5cAAC"
+                                            "imgsrc": "/sfc/servlet.shepherd/version/download/0680w000000FlEpAAK"
                                         }
                                     },
                                     "size": {
@@ -129,8 +129,8 @@
             },
             "documents": [
                 {
-                    "Id": "0680w000000Fl5cAAC",
-                    "developerName": "2022-08-09_17-21",
+                    "Id": "0680w000000FlEpAAK",
+                    "developerName": "dev1-header",
                     "type": "ContentVersion"
                 }
             ],
