@@ -1,0 +1,47 @@
+{
+    "%vlocity_namespace%__Active__c": true,
+    "%vlocity_namespace%__OmniScriptId__c": {
+        "Name": "Demo doc upload",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Demo/DocUpload/English",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+    },
+    "%vlocity_namespace%__ParentElementId__c": {
+        "%vlocity_namespace%__OmniScriptId__c": {
+            "Name": "Demo doc upload",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Demo/DocUpload/English",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
+        },
+        "Name": "Step2",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Demo/DocUpload/English/Step2",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c"
+    },
+    "%vlocity_namespace%__ParentElementName__c": "Step2",
+    "%vlocity_namespace%__ParentElementType__c": "Step",
+    "%vlocity_namespace%__PropertySet__c": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "dataJSON": false,
+        "documentNames": [
+            "CACCAIBAA6478fb8c750b42bc8640f6687934a56e",
+            "CACCAIBAAc8e62518e7ab492eb375ecc7d9073441",
+            "CACCAIBAAab68fc1be43440c990797579ec9ef3a4",
+            "CACCAIBAA57606521e91e446eae4422617e62cb5c",
+            "CACCAIBAAf29ef5e89b574a968d04a2ec202ef8bc",
+            "CACCAIBAA28c23687835f4bd58bd888c70d39a127"
+        ],
+        "label": "TextBlock1",
+        "sanitize": false,
+        "show": null,
+        "text": "<p>For this test I'll be inserting copies of the same image under different file names.</p>\n<p>First image below is just a one-word name: glitter.jpg</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jYgAAI&amp;docName=CACCAIBAA6478fb8c750b42bc8640f6687934a56e&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"366\" height=\"131\" /></p>\n<p>Below image name: glitter space.jpg</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jYlAAI&amp;docName=CACCAIBAAc8e62518e7ab492eb375ecc7d9073441&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"366\" height=\"131\" /></p>\n<p>Below image name: glitter-spark.jpg</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jYqAAI&amp;docName=CACCAIBAAab68fc1be43440c990797579ec9ef3a4&amp;oid=00D0w0000002T7zEAE\" alt=\"\" /></p>\n<p>Below image name: glitter_underscore.jpg</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jYvAAI&amp;docName=CACCAIBAA57606521e91e446eae4422617e62cb5c&amp;oid=00D0w0000002T7zEAE\" alt=\"\" /></p>\n<p>Below image name: glitter (4).jpg</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jZ0AAI&amp;docName=CACCAIBAAf29ef5e89b574a968d04a2ec202ef8bc&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"366\" height=\"131\" /></p>\n<p>Below image name: glitter_combo - (dash).jpg</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jYhAAI&amp;docName=CACCAIBAA28c23687835f4bd58bd888c70d39a127&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"366\" height=\"131\" /></p>",
+        "textKey": ""
+    },
+    "%vlocity_namespace%__ReusableOmniScript__c": false,
+    "%vlocity_namespace%__Type__c": "Text Block",
+    "Name": "TextBlock2",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Demo/DocUpload/English/TextBlock2"
+}
