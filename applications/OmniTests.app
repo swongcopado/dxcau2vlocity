@@ -13,10 +13,22 @@
     <label>OmniTests</label>
     <navType>Console</navType>
     <tabs>OmniTests</tabs>
+    <tabs>LWC_Promotion_Test</tabs>
+    <tabs>LWC_Copado_Promotion_Test</tabs>
     <tabs>standard-Contact</tabs>
+    <tabs>Copado_Test__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>OmniTests_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Copado_Test__c</tab>
+        </mappings>
+        <mappings>
+            <tab>LWC_Copado_Promotion_Test</tab>
+        </mappings>
+        <mappings>
+            <tab>LWC_Promotion_Test</tab>
+        </mappings>
         <mappings>
             <tab>OmniTests</tab>
         </mappings>
