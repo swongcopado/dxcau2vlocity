@@ -25,12 +25,17 @@
         "controlWidth": 12,
         "dataJSON": false,
         "documentNames": [
-            "CACCAIAJA55dda931873d45359f552882ca26f975"
+            "CACCAIBAA970cc45428cc4848960c60e7fec48260",
+            "CACCAIBAA323b09dfb2134ae186e95cd9c48e1398",
+            "CACCAIBAA8154193ca8a94997a4adc4893e318d0f",
+            "CACCAIBAA55d8eded8fdf44d1b1069f4bf1560571",
+            "CACCAIBAA5d7241b7bc07427f8f2182bdea4a949d",
+            "CACCAIBAA4964ea8c612c410685d14ab02b33ee59"
         ],
         "label": "TextBlock1",
         "sanitize": false,
         "show": null,
-        "text": "<p>Some text</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jOeAAI&amp;docName=CACCAIAJA55dda931873d45359f552882ca26f975&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"170\" height=\"76\" /></p>",
+        "text": "<p>For this test I'll be inserting copies of the same image under different file names.</p>\n<p>First image below is just a one-word name: glitter.png</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jXsAAI&amp;docName=CACCAIBAA970cc45428cc4848960c60e7fec48260&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"546\" height=\"310\" /></p>\n<p>Below image name: glitter space.png</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jXxAAI&amp;docName=CACCAIBAA323b09dfb2134ae186e95cd9c48e1398&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"546\" height=\"310\" /></p>\n<p>Below image name: glitter-spark.png</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jY2AAI&amp;docName=CACCAIBAA8154193ca8a94997a4adc4893e318d0f&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"546\" height=\"310\" /></p>\n<p>Below image name: glitter_underscore.png</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jY7AAI&amp;docName=CACCAIBAA55d8eded8fdf44d1b1069f4bf1560571&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"546\" height=\"310\" /></p>\n<p>Below image name: glitter (4).png</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jYCAAY&amp;docName=CACCAIBAA5d7241b7bc07427f8f2182bdea4a949d&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"546\" height=\"310\" /></p>\n<p>Below image name: glitter_combo - (dash).png</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jYHAAY&amp;docName=CACCAIBAA4964ea8c612c410685d14ab02b33ee59&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"546\" height=\"310\" /></p>",
         "textKey": ""
     },
     "%vlocity_namespace%__ReusableOmniScript__c": false,
