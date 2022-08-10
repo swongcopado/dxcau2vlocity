@@ -1,10 +1,12 @@
 {
-    "%vlocity_namespace%__AdditionalInformation__c": "Showcase document uploads with copado",
+    "%vlocity_namespace%__AdditionalInformation__c": "Showcase document uploads with copado - jpg and png steps",
     "%vlocity_namespace%__DisableMetadataCache__c": false,
     "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
     "%vlocity_namespace%__Element__c": [
         "Demo_DocUpload_English_Element_Step1.json",
-        "Demo_DocUpload_English_Element_TextBlock1.json"
+        "Demo_DocUpload_English_Element_TextBlock1.json",
+        "Demo_DocUpload_English_Element_Step2.json",
+        "Demo_DocUpload_English_Element_TextBlock2.json"
     ],
     "%vlocity_namespace%__IsLwcEnabled__c": true,
     "%vlocity_namespace%__IsProcedure__c": false,
