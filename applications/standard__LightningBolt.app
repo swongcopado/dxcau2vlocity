@@ -7,5 +7,7 @@
     <label>LightningBolt</label>
     <navType>Standard</navType>
     <tabs>standard-LightningBoltHome</tabs>
+    <tabs>Copado_Test__c</tabs>
+    <tabs>Test_LWC_with_Flexcard</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>
