@@ -22,7 +22,7 @@
             ],
             "default": null
         },
-        "instruction": "",
+        "instruction": "<p>Now we test cron schedule</p>",
         "instructionKey": "",
         "knowledgeOptions": {
             "dataCategoryCriteria": "",
