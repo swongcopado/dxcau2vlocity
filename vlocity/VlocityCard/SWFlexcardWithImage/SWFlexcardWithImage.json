@@ -185,7 +185,7 @@
                                         "title": "SCLogo",
                                         "value": "/sfc/servlet.shepherd/version/download/0680w000000FkwlAAC"
                                     },
-                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0680w000000FkwlAAC"
+                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0680w000001UERZAA4"
                                 }
                             },
                             "size": {
@@ -213,7 +213,7 @@
             },
             "documents": [
                 {
-                    "Id": "0680w000000FkwlAAC",
+                    "Id": "0680w000001UERZAA4",
                     "developerName": "SCLogo",
                     "type": "ContentVersion"
                 }
