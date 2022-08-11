@@ -34,8 +34,28 @@
                     "children": [
                         {
                             "class": "slds-col ",
+                            "element": "outputField",
+                            "elementLabel": "Text-0",
+                            "name": "Text",
+                            "property": {
+                                "card": "{card}",
+                                "mergeField": "%3Cdiv%20class=%22slds-text-heading_large%20slds-text-body_regular%20slds-text-color_success%22%3E%3Cstrong%3EFlexCard%20With%20Image%3C/strong%3E%3C/div%3E",
+                                "record": "{record}"
+                            },
+                            "size": {
+                                "default": "12",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "sizeClass": "slds-size_12-of-12"
+                            },
+                            "type": "text"
+                        },
+                        {
+                            "class": "slds-col ",
                             "element": "flexImg",
-                            "elementLabel": "Image-0",
+                            "elementLabel": "Image-1",
                             "name": "Image",
                             "property": {
                                 "card": "{card}",
@@ -122,7 +142,8 @@
     "xmlJson": [
         {
             "@attributes": {
-                "targets": "lightning__AppPage"
+                "targets": "lightning__AppPage",
+                "xmlns": "http://soap.sforce.com/2006/04/metadata"
             },
             "property": [
                 {
@@ -141,7 +162,8 @@
         },
         {
             "@attributes": {
-                "targets": "lightning__RecordPage"
+                "targets": "lightning__RecordPage",
+                "xmlns": "http://soap.sforce.com/2006/04/metadata"
             },
             "property": [
                 {
@@ -154,7 +176,12 @@
         }
     ],
     "xmlObject": {
-        "targetConfigs": "PHRhcmdldENvbmZpZyB0YXJnZXRzPSJsaWdodG5pbmdfX0FwcFBhZ2UiPgogICAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRlYnVnIiB0eXBlPSJCb29sZWFuIi8+CiAgICAgICAgICAgICAgICAgICAgICA8cHJvcGVydHkgbmFtZT0icmVjb3JkSWQiIHR5cGU9IlN0cmluZyIvPgogICAgICAgICAgICAgICAgICA8L3RhcmdldENvbmZpZz4KICAgICAgICAgICAgICAgICAgPHRhcmdldENvbmZpZyB0YXJnZXRzPSJsaWdodG5pbmdfX1JlY29yZFBhZ2UiPgogICAgICAgICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRlYnVnIiB0eXBlPSJCb29sZWFuIi8+CiAgICAgICAgICAgICAgICAgIDwvdGFyZ2V0Q29uZmlnPg==",
+        "apiVersion": 51,
+        "isExplicitImport": false,
+        "isExposed": true,
+        "masterLabel": "SWFlexcardWithImage",
+        "runtimeNamespace": "%vlocity_namespace%",
+        "targetConfigs": "PHRhcmdldENvbmZpZyB4bWxucz0iaHR0cDovL3NvYXAuc2ZvcmNlLmNvbS8yMDA2LzA0L21ldGFkYXRhIiB0YXJnZXRzPSJsaWdodG5pbmdfX0FwcFBhZ2UiPjxwcm9wZXJ0eSBuYW1lPSJkZWJ1ZyIgdHlwZT0iQm9vbGVhbiIvPjxwcm9wZXJ0eSBuYW1lPSJyZWNvcmRJZCIgdHlwZT0iU3RyaW5nIi8+PC90YXJnZXRDb25maWc+PHRhcmdldENvbmZpZyB4bWxucz0iaHR0cDovL3NvYXAuc2ZvcmNlLmNvbS8yMDA2LzA0L21ldGFkYXRhIiB0YXJnZXRzPSJsaWdodG5pbmdfX1JlY29yZFBhZ2UiPjxwcm9wZXJ0eSBuYW1lPSJkZWJ1ZyIgdHlwZT0iQm9vbGVhbiIvPjwvdGFyZ2V0Q29uZmlnPg==",
         "targets": {
             "target": [
                 "lightning__RecordPage",
