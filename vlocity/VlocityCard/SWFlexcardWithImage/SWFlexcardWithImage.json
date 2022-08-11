@@ -15,11 +15,12 @@
     },
     "enableLwc": true,
     "isFlex": true,
+    "isRepeatable": false,
     "lwc": {
-        "DeveloperName": "cfSWFlexcardWithImage_1_swong",
-        "Id": "0Rb0w000000D2gBCAS",
+        "DeveloperName": "cfSWFlexcardWithImage_2_swong",
+        "Id": "0Rb0w000000D3BoCAK",
         "ManageableState": "unmanaged",
-        "MasterLabel": "cfSWFlexcardWithImage_1_swong",
+        "MasterLabel": "cfSWFlexcardWithImage_2_swong",
         "NamespacePrefix": "c"
     },
     "selectableMode": "Multi",
@@ -53,9 +54,122 @@
                             "type": "text"
                         },
                         {
+                            "children": [
+                                {
+                                    "class": "slds-col ",
+                                    "element": "baseInputElement",
+                                    "elementLabel": "Block-1-Text-0",
+                                    "key": "element_element_block_1_0_baseInputElement_0_0",
+                                    "name": "Text",
+                                    "parentElementKey": "element_block_1_0",
+                                    "property": {
+                                        "card": "{card}",
+                                        "propertyObj": {
+                                            "label": "Name"
+                                        },
+                                        "record": "{record}",
+                                        "type": "text"
+                                    },
+                                    "size": {
+                                        "default": "5",
+                                        "isResponsive": false
+                                    },
+                                    "stateIndex": 0,
+                                    "styleObject": {
+                                        "class": "slds-p-right_x-small",
+                                        "margin": [
+                                            {
+                                                "size": "xx-small",
+                                                "type": "bottom"
+                                            }
+                                        ],
+                                        "padding": [
+                                            {
+                                                "size": "small",
+                                                "type": "right"
+                                            }
+                                        ],
+                                        "size": {
+                                            "default": "5",
+                                            "isResponsive": false
+                                        },
+                                        "sizeClass": "slds-size_5-of-12 "
+                                    },
+                                    "type": "element"
+                                }
+                            ],
+                            "class": "slds-col ",
+                            "element": "block",
+                            "elementLabel": "Block-1",
+                            "name": "Block",
+                            "property": {
+                                "card": "{card}",
+                                "collapsedByDefault": false,
+                                "collapsible": false,
+                                "label": "Block",
+                                "record": "{record}"
+                            },
+                            "size": {
+                                "default": "12",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "class": "slds-p-around_x-small",
+                                "padding": [
+                                    {
+                                        "size": "x-small",
+                                        "type": "around"
+                                    }
+                                ],
+                                "sizeClass": "slds-size_12-of-12"
+                            },
+                            "type": "block"
+                        },
+                        {
+                            "class": "slds-col ",
+                            "element": "baseInputElement",
+                            "elementLabel": "Text-2",
+                            "name": "Text",
+                            "property": {
+                                "card": "{card}",
+                                "propertyObj": {
+                                    "label": "City"
+                                },
+                                "record": "{record}",
+                                "type": "text"
+                            },
+                            "size": {
+                                "default": "5",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "class": "slds-p-right_x-small",
+                                "margin": [
+                                    {
+                                        "size": "xx-small",
+                                        "type": "bottom"
+                                    }
+                                ],
+                                "padding": [
+                                    {
+                                        "size": "small",
+                                        "type": "right"
+                                    }
+                                ],
+                                "size": {
+                                    "default": "5",
+                                    "isResponsive": false
+                                },
+                                "sizeClass": "slds-size_5-of-12 "
+                            },
+                            "type": "element"
+                        },
+                        {
                             "class": "slds-col ",
                             "element": "flexImg",
-                            "elementLabel": "Image-1",
+                            "elementLabel": "Image-3",
                             "name": "Image",
                             "property": {
                                 "card": "{card}",
