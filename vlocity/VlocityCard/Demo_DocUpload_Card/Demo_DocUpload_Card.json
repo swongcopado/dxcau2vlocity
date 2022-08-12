@@ -11,10 +11,10 @@
     "enableLwc": true,
     "isFlex": true,
     "lwc": {
-        "DeveloperName": "cfTest_Flexipage_Card_6_dxcau2",
-        "Id": "0Rb0w000000D2hpCAC",
+        "DeveloperName": "cfDemo_DocUpload_Card_1_dxcau2",
+        "Id": "0Rb0w000000D2oXCAS",
         "ManageableState": "unmanaged",
-        "MasterLabel": "cfTest_Flexipage_Card_6_dxcau2",
+        "MasterLabel": "cfDemo_DocUpload_Card_1_dxcau2",
         "NamespacePrefix": "c"
     },
     "selectableMode": "Multi",
@@ -38,7 +38,7 @@
                                     "parentElementKey": "element_block_0_0",
                                     "property": {
                                         "card": "{card}",
-                                        "mergeField": "%3Cdiv%3EEdit%20me!%3C/div%3E%0A%3Cdiv%3EThis%20will%20be%20in%20a%20lightning%20page%20of%20some%20kind%3C/div%3E%0A%3Cdiv%3ESecond%20version%20be%20manual%20export%20&amp;%20drop%20to%20check%20if%20issue%20can%20be%20replicated%3C/div%3E%0A%3Cdiv%3EThird%20version%20to%20be%20in%20separate%20US%20branch%20and%20deploy%20via%20copado%3C/div%3E%0A%3Cdiv%3EThere%20should%20also%20be%20an%20image%20below%20this%20block,%20separately%3C/div%3E",
+                                        "mergeField": "%3Cdiv%3EEdit%20me!%3C/div%3E%0A%3Cdiv%3EThere%20should%20be%20an%20image%20below%20(showing%20a%20dev1%20banner)%3C/div%3E",
                                         "record": "{record}"
                                     },
                                     "size": {
@@ -50,6 +50,40 @@
                                         "sizeClass": "slds-size_12-of-12"
                                     },
                                     "type": "text"
+                                },
+                                {
+                                    "class": "slds-col ",
+                                    "element": "flexImg",
+                                    "elementLabel": "Block-0-Image-1",
+                                    "key": "element_element_block_0_0_flexImg_1_0",
+                                    "name": "Image",
+                                    "parentElementKey": "element_block_0_0",
+                                    "property": {
+                                        "card": "{card}",
+                                        "extraclass": "slds-align_absolute-center",
+                                        "record": "{record}",
+                                        "size": "",
+                                        "stateImg": {
+                                            "alternativeText": "Image description",
+                                            "document": {
+                                                "Id": "0680w000000FlEpAAK",
+                                                "attachmentType": "ContentVersion",
+                                                "label": "dev1-header (Version:1)",
+                                                "title": "dev1-header",
+                                                "value": "/sfc/servlet.shepherd/version/download/0680w000000FlEpAAK"
+                                            },
+                                            "imgsrc": "/sfc/servlet.shepherd/version/download/0680w000000FlEpAAK"
+                                        }
+                                    },
+                                    "size": {
+                                        "default": "12",
+                                        "isResponsive": false
+                                    },
+                                    "stateIndex": 0,
+                                    "styleObject": {
+                                        "sizeClass": "slds-size_12-of-12"
+                                    },
+                                    "type": "element"
                                 }
                             ],
                             "class": "slds-col ",
@@ -59,7 +93,7 @@
                             "property": {
                                 "card": "{card}",
                                 "collapsedByDefault": false,
-                                "collapsible": false,
+                                "collapsible": true,
                                 "label": "Block",
                                 "record": "{record}"
                             },
@@ -79,38 +113,6 @@
                                 "sizeClass": "slds-size_12-of-12"
                             },
                             "type": "block"
-                        },
-                        {
-                            "class": "slds-col ",
-                            "element": "flexImg",
-                            "elementLabel": "Image-1",
-                            "name": "Image",
-                            "property": {
-                                "card": "{card}",
-                                "extraclass": "slds-align_absolute-center",
-                                "record": "{record}",
-                                "size": "",
-                                "stateImg": {
-                                    "alternativeText": "Image description",
-                                    "document": {
-                                        "Id": "0680w000000Fl2bAAC",
-                                        "attachmentType": "ContentVersion",
-                                        "label": "timesheetmeme (Version:1)",
-                                        "title": "timesheetmeme",
-                                        "value": "/sfc/servlet.shepherd/version/download/0680w000000Fl2bAAC"
-                                    },
-                                    "imgsrc": "/sfc/servlet.shepherd/version/download/0680w000001UEW5AAO"
-                                }
-                            },
-                            "size": {
-                                "default": "12",
-                                "isResponsive": false
-                            },
-                            "stateIndex": 0,
-                            "styleObject": {
-                                "sizeClass": "slds-size_12-of-12"
-                            },
-                            "type": "element"
                         }
                     ]
                 }
@@ -127,8 +129,8 @@
             },
             "documents": [
                 {
-                    "Id": "0680w000001UEW5AAO",
-                    "developerName": "timesheetmeme",
+                    "Id": "0680w000000FlEpAAK",
+                    "developerName": "dev1-header",
                     "type": "ContentVersion"
                 }
             ],
@@ -166,7 +168,7 @@
         }
     ],
     "theme": "slds",
-    "title": "Test_Flexipage_Card",
+    "title": "Demo_DocUpload_Card",
     "xmlJson": [
         {
             "@attributes": {

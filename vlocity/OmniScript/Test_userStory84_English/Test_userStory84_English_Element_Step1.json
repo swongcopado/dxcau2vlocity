@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__Active__c": true,
     "%vlocity_namespace%__OmniScriptId__c": {
-        "Name": "Test Lightning page",
+        "Name": "userStory84",
         "VlocityDataPackType": "VlocityMatchingKeyObject",
-        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Test/flexipage/English",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Test/userStory84/English",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
     },
     "%vlocity_namespace%__PropertySet__c": {
@@ -18,14 +18,14 @@
         "completeMessage": "Are you sure you want to complete the script?",
         "conditionType": "Hide if False",
         "documentNames": [
-            "CACCAIAJAb28620877f5a46d09642808a2b320cdd"
+            "CACCAIAJAd250f4d195094a5d8eedf93fcb29fd91"
         ],
         "errorMessage": {
             "custom": [
             ],
             "default": null
         },
-        "instruction": "<p>Instruction image below</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jNgAAI&amp;docName=CACCAIAJAb28620877f5a46d09642808a2b320cdd&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"172\" height=\"124\" /></p>",
+        "instruction": "<p>This is a Document with an embedded image below:</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jOyAAI&amp;docName=CACCAIAJAd250f4d195094a5d8eedf93fcb29fd91&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"1024\" height=\"575\" /></p>",
         "instructionKey": "",
         "knowledgeOptions": {
             "dataCategoryCriteria": "",
@@ -64,5 +64,5 @@
     "Name": "Step1",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
-    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Test/flexipage/English/Step1"
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Test/userStory84/English/Step1"
 }

@@ -1,9 +1,9 @@
 {
     "%vlocity_namespace%__Active__c": true,
     "%vlocity_namespace%__OmniScriptId__c": {
-        "Name": "Test Lightning page",
+        "Name": "Demo doc upload",
         "VlocityDataPackType": "VlocityMatchingKeyObject",
-        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Test/flexipage/English",
+        "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Demo/DocUpload/English",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c"
     },
     "%vlocity_namespace%__PropertySet__c": {
@@ -17,15 +17,12 @@
         "completeLabel": "Complete",
         "completeMessage": "Are you sure you want to complete the script?",
         "conditionType": "Hide if False",
-        "documentNames": [
-            "CACCAIAJAb28620877f5a46d09642808a2b320cdd"
-        ],
         "errorMessage": {
             "custom": [
             ],
             "default": null
         },
-        "instruction": "<p>Instruction image below</p>\n<p><img src=\"/servlet/servlet.ImageServer?id=0150w0000001jNgAAI&amp;docName=CACCAIAJAb28620877f5a46d09642808a2b320cdd&amp;oid=00D0w0000002T7zEAE\" alt=\"\" width=\"172\" height=\"124\" /></p>",
+        "instruction": "",
         "instructionKey": "",
         "knowledgeOptions": {
             "dataCategoryCriteria": "",
@@ -35,7 +32,7 @@
             "remoteTimeout": 30000,
             "typeFilter": ""
         },
-        "label": "Step 1",
+        "label": "Step2JPG",
         "message": {
         },
         "nextLabel": "Next",
@@ -61,8 +58,8 @@
     },
     "%vlocity_namespace%__ReusableOmniScript__c": false,
     "%vlocity_namespace%__Type__c": "Step",
-    "Name": "Step1",
+    "Name": "Step2",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
-    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Test/flexipage/English/Step1"
+    "VlocityRecordSourceKey": "%vlocity_namespace%__Element__c/%vlocity_namespace%__OmniScript__c/Demo/DocUpload/English/Step2"
 }
